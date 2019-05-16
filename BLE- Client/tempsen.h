@@ -2,7 +2,7 @@
  * tempsen.h
  *
  *  Created on: Sep 22, 2018
- *      Author: Admin
+ *      Author: Achyut
  */
 
 #ifndef TEMPSENSOR_H_
