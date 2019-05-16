@@ -2,7 +2,7 @@
  * tempsensor.c
  *
  *  Created on: Sep 22, 2018
- *      Author: Admin
+ *      Author: Achyut
  */
 
 #include "tempsen.h"
