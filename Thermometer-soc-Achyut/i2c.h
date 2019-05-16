@@ -2,7 +2,7 @@
  * i2c.h
  *
  *  Created on: Sep 20, 2018
- *      Author: Admin
+ *      Author: Achyut
  */
 
 #include "em_i2c.h"
